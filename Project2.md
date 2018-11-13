@@ -37,9 +37,11 @@ I downloaded the data zip file from the United States Forest Service and stored 
 ![database](https://user-images.githubusercontent.com/42807889/48357765-5496f780-e667-11e8-98b6-8cce33c20d6d.JPG)
 
 I then sorted out my data into four equal time periods seen below. The select by expression tool was used to export the 4 newly selected features to layers.
+
 ![select by expression](https://user-images.githubusercontent.com/42807889/48358555-03880300-e669-11e8-87b3-e81b36fc26c8.JPG)
 
 Once the layer was separated into 4 layers: 1981-1989,1990-1998,1999-2007,and 2008-2016 I used the select by attribute to pull out the sizeclass = 'G' since on the United States Forest Service Scale G sized wildfires are the biggest and over 5,000 acres wide.
+
 ![select by attribute](https://user-images.githubusercontent.com/42807889/48358517-f1a66000-e668-11e8-9ec9-33f8c2e4a1c8.JPG)
 
 
