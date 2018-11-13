@@ -54,66 +54,6 @@ My project queried the years of 1981-2016 by sub dividing them into four 9 year 
 #### 2008-2016
 ![2008_2016_class_g2](https://user-images.githubusercontent.com/42807889/48357676-27e2e000-e667-11e8-9c37-a793c990ad0f.jpg)
 
-from PyQt5.QtGu import QColor
-
-from PyQt5.QtCore import Qt
-
-from qgis.utils import iface
-#Adding Base Maps from Rest Service
-qgis.utils.iface.addRasterLayer("http://server.arcgisonline.com/arcgis/rest/services/ESRI_Imagery_World_2D/MapServer?f=json&pretty=true","raster")
-qgis.utils.iface.addRasterLayer("http://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer?f=json&pretty=true","raster")
-iface.addVectorLayer('F:/UMBC/GES_486/486/project_2/Data/wf_usfs_1980_2016/wf_usfs_1980_2016.shp','wf_usfs_1980_2016','ogr')
-# Querying for size class G
-from qgis.core import *
-#year 2008_2016
-G2008 = QgsVectorLayer('F:/UMBC/GES_486/486/project_2/Data/database/2008_2016.sqlite','2008_2016','ogr')
-QgsProject.instance().addMapLayer(G2008)
-G2008.selectByExpression("sizeclass = 'G'")
-QgsVectorFileWriter.writeAsVectorFormat(G2008, r'F:/UMBC/GES_486/486/project_2/Data/database/2008_2016py1.gpkg', 'utf-8', G2008.crs(),'GPKG', True)
-iface.addVectorLayer('F:/UMBC/GES_486/486/project_2/Data/database/2008_2016py1.gpkg','2008_2016py1','ogr')
-
-#year 1999_2007
-G1999 = QgsVectorLayer('F:/UMBC/GES_486/486/project_2/Data/database/1999_2007.sqlite','1999_2007','ogr')
-QgsProject.instance().addMapLayer(G1999)
-G1999.selectByExpression("sizeclass = 'G'")
-QgsVectorFileWriter.writeAsVectorFormat(G1999, r'F:/UMBC/GES_486/486/project_2/Data/database/1999_2007py.gpkg', 'utf-8', G1999.crs(),'GPKG', True)
-iface.addVectorLayer('F:/UMBC/GES_486/486/project_2/Data/database/1999_2007py.gpkg','1999_2007py','ogr')
-
-#year 1990_1998
-G1990 = QgsVectorLayer('F:/UMBC/GES_486/486/project_2/Data/database/1990_1998.sqlite','1990_1998','ogr')
-QgsProject.instance().addMapLayer(G1990)
-G1990.selectByExpression("sizeclass = 'G'")
-QgsVectorFileWriter.writeAsVectorFormat(G1990, r'F:/UMBC/GES_486/486/project_2/Data/database/1990_1998py.gpkg', 'utf-8', G1990.crs(),'GPKG', True)
-iface.addVectorLayer('F:/UMBC/GES_486/486/project_2/Data/database/1990_1998py.gpkg','1990_1998py','ogr')
-
-#year 1981_1989
-G1981 = QgsVectorLayer('F:/UMBC/GES_486/486/project_2/Data/database/1981_1989.sqlite','1981_1989','ogr')
-QgsProject.instance().addMapLayer(G1981)
-G1981.selectByExpression("sizeclass = 'G'")
-QgsVectorFileWriter.writeAsVectorFormat(G1981, r'F:/UMBC/GES_486/486/project_2/Data/database/1981_1989py.gpkg', 'utf-8', G1981.crs(),'GPKG', True)
-iface.addVectorLayer('F:/UMBC/GES_486/486/project_2/Data/database/1981_1989py.gpkg','1981_1989py','ogr')
-
-
-#setting active layer and symbology
-active_layer = iface.activeLayer()
-
-renderer = active_layer.renderer()
-
-symbol = renderer.symbol()
-
-# Setting color of active layer to red
-symbol.setColor(QColor('red'))
-
-#Refreshing symbology and legend
-active_layer.triggerRepaint()
-
-iface.layerTreeView().refreshLayerSymbology(active_layer.id())
-
-#Opening attribute table
-iface.showAttributeTable(iface.activeLayer())
-
-
-
 ## Projections/coordinate system:
 
 For this project I used the
