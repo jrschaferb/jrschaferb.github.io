@@ -71,7 +71,7 @@ In QGIS v3.2 in order to create the GIF containing the time series Giphy was use
 
 
 ## Python Code for selecting out size G Wildfires
-```Python
+``` Python
 from PyQt5.QtGu import QColor
 
 from PyQt5.QtCore import Qt
