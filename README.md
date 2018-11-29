@@ -1,6 +1,6 @@
 ## Welcome to Joshua Schaferbien's Page!
 
-![gis](https://user-images.githubusercontent.com/42807889/49198186-f6089380-f35f-11e8-8d84-d2d26987874b.jpg)
+![gis1](https://user-images.githubusercontent.com/42807889/49198343-aa0a1e80-f360-11e8-949a-660bc2a051de.jpg)
 
 ### Jekyll Themes
 
