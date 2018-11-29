@@ -1,4 +1,4 @@
-# Lab 6 Part 1
+# Lab 6 
 ##### Joshua Schaferbien
 ##### 11/28/18 GES 486
 
