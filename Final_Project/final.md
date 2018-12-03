@@ -1,5 +1,5 @@
 ---
-title:Final Project Space Holder
+title: Final Project Space Holder
 ---
 # Final Project
 
