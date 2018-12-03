@@ -1,7 +1,7 @@
 ---
   title: Project 1
 ---
-# Project 1  Spatialite Queries and 3D Mapping
+## Project 1  Spatialite Queries and 3D Mapping
 
  Joshua SCHAFERBIEN   GES 486 10/8/18
 
