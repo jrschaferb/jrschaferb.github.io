@@ -19,7 +19,7 @@ Unsupervised Classification Answer Sheet
 
 •	shadow
 
-	[2] Using the swipe tool over the original image what features do the four colors represent?
+[2] Using the swipe tool over the original image what features do the four colors represent?
 
 o	Class 2 __vegetation/shadows
 
