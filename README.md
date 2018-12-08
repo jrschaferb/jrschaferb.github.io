@@ -26,22 +26,14 @@ ArcScene was used in order to create a 3D version of the builing hieghts of Balt
 
 ### Project 2
 
-![It's Fine Alt Text](project2_sfi/p2_teaser.png)
+![](https://media.giphy.com/media/Yk1Ld08LwKh4ytPH50/giphy.gif)
 
-[See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
+[See more details here.](https://jrschaferb.github.io/Project%202/schaferbien_Project_2.html)
 
-The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
-
-```html
-<small>Text to *make* small.</small>
-```
-
-Notice I used markdown inside the html tags. 
-
-<small>__Tools__: QGIS, R</small>
+<small>__Tools__: QGIS, QGISPY.Spatialite Database,Giphy.com</small>
 
 <small>__Data__:
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
+[Wildfire Data](https://wildfire.cr.usgs.gov/firehistory/data.html)</small>
 
 </div>
 </div>
@@ -51,16 +43,17 @@ Notice I used markdown inside the html tags.
 
 ### Project 3 
 
-![It's Fine Alt Text](project3_demo/p3_teaser.png)
+![unsupervised_classification](https://user-images.githubusercontent.com/42807889/49681481-70c46380-fa70-11e8-9861-9585bb6143b7.jpg)
 
-[See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
-This project uses a 350px square image for the teaser image, but inside the square image, I used a circle to highlight a certain area. Pellentesque eget mauris vel mi tristique finibus vitae quis massa. Mauris vulputate, nulla vel tincidunt interdum, sem mauris scelerisque neque, suscipit pellentesque felis augue a erat. 
+[See more details here.](https://jrschaferb.github.io/Project%203/Project_3.html)
 
-<small>__Tools__: QGIS, Interpolation, Photoshop
+Using Esri's Desktop Suite we created a unsupervised classification on visible materials from satelite imagery. 
+
+<small>__Tools__: ArcMap,Esri Desktop Suite
 
 <small>__Data__: 
-[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
+Laurel_imagery Ask for more information </small>
 
 </div>
 
@@ -68,14 +61,15 @@ This project uses a 350px square image for the teaser image, but inside the squa
 
 ### Project 4
 
-![It's Fine Alt Text](project4_demo/p4_teaser.png)
+![js_210_final_project-1](https://user-images.githubusercontent.com/42807889/49681927-c2242100-fa77-11e8-9d07-588f33869bec.jpg)
 
-[See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
+[See more details here.](http://projects.nytimes.com/toxic-waters/polluters/state-data)
 
-Phasellus consequat quam elit, et iaculis risus pellentesque aliquet. Proin ut enim dui. Ut elementum, purus nec rhoncus sagittis, nibh nunc auctor nulla, eu condimentum nisi velit eget magna. Nulla feugiat tincidunt dictum. Vestibulum congue sapien elit. Maecenas non sodales ligula, quis tempor mi. 
+Using MDImap data and other sources I compared pullotion with SAV(subaquatic vegetaion) densities.
 
-<small>__Tools__: QGIS, R
+<small>__Tools__: Arcmap, Esri Desktop Suite
 
 <small>__Data__:
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
+(http://geodata.md.gov/sggatlas/index.html?sggWebmap=83c1553112794d0d81db4f4304345357&sggTheme=streamHealth&extent=-79.1489,38.0633,-75.0922,39.874&extentBBox=-8555926.975646812,4770258.749917697,-8522027.153602384,4802400.52031157&extentSR=102100)
+ (defunct)</small>
 
