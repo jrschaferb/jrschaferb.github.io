@@ -1,5 +1,5 @@
 ---
-title : Remote Sensing Lab 4
+title : Project 3
 ---
 
 ![schaferbien_unsupervised_classification100](https://user-images.githubusercontent.com/42807889/49521664-f62ef480-f873-11e8-97dd-85377a1d112f.jpg)
