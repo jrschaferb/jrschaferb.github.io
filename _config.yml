@@ -1,10 +1,10 @@
 remote_theme: daviddarnes/alembic
 
 navigation_header:
-  Joshua Schaferbien's Portfolio: https://jrschaferb.github.io/README.html
-  Project 1: https://jrschaferb.github.io/Project%201/schaferbien_Project_1.html
-  Project 2: https://jrschaferb.github.io/Project%202/schaferbien_Project_2.html
-  Project 3: https://jrschaferb.github.io/Project%203/Project_3.html
-  Project 4: https://jrschaferb.github.io/Project%204/Project_4.html
+  Joshua Schaferbien's Portfolio:README.html
+  Project 1: 
+  Project 2: 
+  Project 3: 
+  Project 4: 
 
 theme: jekyll-theme-time-machine
