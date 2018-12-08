@@ -11,14 +11,14 @@ title: Joshua Schaferbien's Portfolio
 
 
 
-[See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
+[See more details here.](https://jrschaferb.github.io/Project%201/schaferbien_Project_1.html)
 
-This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum et auctor. Pellentesque sollicitudin aliquet quam, non vulputate mi tincidunt a. Quisque ultricies lectus mattis leo pharetra fringilla. 
+ArcScene was used in order to create a 3D version of the builing hieghts of Baltimore Maryland's Innerharbor Area using census property data. 
 
-<small>__Tools__: QGIS, Interpolation, Photoshop</small>
+<small>__Tools__: ArcScene,QGIS, Interpolation</small>
 
 <small>__Data__: 
-[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
+[Data.Baltimore](https://data.baltimorecity.gov/Geographic/Building-Footprint-Shape/deus-s85f).)</small>
 
 </div>
 
