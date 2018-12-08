@@ -7,7 +7,8 @@ title: Joshua Schaferbien's Portfolio
 
 ### Project 1 
 
-![It's Fine Alt Text](https://user-images.githubusercontent.com/42807889/49681322-cf3c1280-fa6d-11e8-81bf-d96f2be6bcce.GIF)
+![3d_map](https://user-images.githubusercontent.com/42807889/49681322-cf3c1280-fa6d-11e8-81bf-d96f2be6bcce.GIF)
+
 
 
 [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
