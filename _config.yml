@@ -3,6 +3,8 @@ remote_theme: daviddarnes/alembic
  navigation_header:
  
   Josh Schaferbien's Portfolio: /jrschaferb.github.io/index.html
-  Project 1: /jrschaferb.github.io/Project 1/schaferbien_Project_1.html
-  Project 2: /project2_sfi/project2.html
-  Project 3: /project1_bamap/project1.html
+  Project 1: /jrschaferb.github.io/Project1/schaferbien_Project_1.html
+  Project 2: /jrschaferb.github.io/Project2/schaferbien_Project_2.html
+  Project 3: /jrschaferb.github.io/Project3/Project_3.html
+  Project 4: /jrschaferb.github.io/Project4/project_4.html
+  Final Project: /jrschaferb.github.io/Final_Project/final.html
