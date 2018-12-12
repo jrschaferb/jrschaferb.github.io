@@ -3,3 +3,7 @@ remote_theme: daviddarnes/alembic
 navigation_header:
   Home2: /
   Project 1: "/Project 1/schaferbien_Project_1.html"
+  Project 2: "/Project 2/schaferbien_Project_2.html"
+  Project 3: "/Project 3/Project_3.html"
+  Project 4: "/Project 4/project_4.html"
+  Final Project: "/Final_Project/final.html"
