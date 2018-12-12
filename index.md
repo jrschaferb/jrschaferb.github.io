@@ -8,7 +8,6 @@ I've highlighed  5 Projects throughout my GIS experience each utilizing differen
 
 [![3d_map](https://user-images.githubusercontent.com/42807889/49681322-cf3c1280-fa6d-11e8-81bf-d96f2be6bcce.GIF)](https://jrschaferb.github.io/Project%201/schaferbien_Project_1.html)
 
-[![][(<img src=https://user-images.githubusercontent.com/42807889/49890623-86d87800-fe12-11e8-94b3-090b45a1424f.png)alt="100" width="100"/>](https://user-images.githubusercontent.com/42807889/49681322-cf3c1280-fa6d-11e8-81bf-d96f2be6bcce.GIF)
 
 [See more details here.](https://jrschaferb.github.io/Project%201/schaferbien_Project_1.html)
 
