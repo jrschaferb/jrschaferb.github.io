@@ -1,6 +1,5 @@
 remote_theme: daviddarnes/alembic
 
 navigation_header:
-  Home: "/jrschaferb.github.io/index.html"
-  Project 1: "/jrschaferb.github.io/Project 1/schaferbien_Project_1.html"
-
+  Home2: /
+  Project 1: "/Project 1/schaferbien_Project_1.html"
