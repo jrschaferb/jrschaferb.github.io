@@ -1,13 +1,10 @@
 ---
 title: Joshua Schaferbien's Portfolio
 ---
-<div>
 
 ### Project 1
 
 ![3d_map](https://user-images.githubusercontent.com/42807889/49681322-cf3c1280-fa6d-11e8-81bf-d96f2be6bcce.GIF)
-
-
 
 [See more details here.](https://jrschaferb.github.io/Project%201/schaferbien_Project_1.html)
 
@@ -17,10 +14,6 @@ ArcScene was used in order to create a 3D version of the builing hieghts of Balt
 
 <small>__Data__:
 [Data.Baltimore](https://data.baltimorecity.gov/Geographic/Building-Footprint-Shape/deus-s85f).)</small>
-
-</div>
-
-<div>
 
 ### Project 2
 
@@ -33,13 +26,9 @@ ArcScene was used in order to create a 3D version of the builing hieghts of Balt
 <small>__Data__:
 [Wildfire Data](https://wildfire.cr.usgs.gov/firehistory/data.html)</small>
 
-</div>
-
-<div>
 ### Project 3
 
 ![unsupervised_classification](https://user-images.githubusercontent.com/42807889/49681481-70c46380-fa70-11e8-9861-9585bb6143b7.jpg)
-
 
 [See more details here.](https://jrschaferb.github.io/Project%203/Project_3.html)
 
@@ -49,10 +38,6 @@ Using Esri's Desktop Suite we created a unsupervised classification on visible m
 
 <small>__Data__:
 Laurel_imagery Ask for more information </small>
-
-</div>
-
-<div>
 
 ### Project 4
 
@@ -67,5 +52,3 @@ Using MDImap data and other sources I compared pullotion with SAV(subaquatic veg
 <small>__Data__:
 (http://geodata.md.gov/sggatlas/index.html?sggWebmap=83c1553112794d0d81db4f4304345357&sggTheme=streamHealth&extent=-79.1489,38.0633,-75.0922,39.874&extentBBox=-8555926.975646812,4770258.749917697,-8522027.153602384,4802400.52031157&extentSR=102100)
  (defunct)</small>
- 
- <div>
