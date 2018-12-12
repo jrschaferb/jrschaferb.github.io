@@ -2,6 +2,8 @@
 title: Joshua Schaferbien's Portfolio
 ---
 
+I've highlighed  5 Projects throughout my GIS experience each utilizing different skills.
+
 ### Project 1
 
 ![3d_map](https://user-images.githubusercontent.com/42807889/49681322-cf3c1280-fa6d-11e8-81bf-d96f2be6bcce.GIF)
@@ -50,5 +52,7 @@ Using MDImap data and other sources I compared pullotion with SAV(subaquatic veg
 <small>__Tools__: Arcmap, Esri Desktop Suite
 
 <small>__Data__:
-(http://geodata.md.gov/sggatlas/index.html?sggWebmap=83c1553112794d0d81db4f4304345357&sggTheme=streamHealth&extent=-79.1489,38.0633,-75.0922,39.874&extentBBox=-8555926.975646812,4770258.749917697,-8522027.153602384,4802400.52031157&extentSR=102100)
+[Data](http://geodata.md.gov/sggatlas/index.html?sggWebmap=83c1553112794d0d81db4f4304345357&sggTheme=streamHealth&extent=-79.1489,38.0633,-75.0922,39.874&extentBBox=-8555926.975646812,4770258.749917697,-8522027.153602384,4802400.52031157&extentSR=102100)
  (defunct)</small>
+
+### Final Project 
