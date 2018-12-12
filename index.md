@@ -45,7 +45,7 @@ Laurel_imagery Ask for more information </small>
 
 ![js_210_final_project-1](https://user-images.githubusercontent.com/42807889/49681927-c2242100-fa77-11e8-9d07-588f33869bec.jpg)
 
-[See more details here.](http://projects.nytimes.com/toxic-waters/polluters/state-data)
+[See more details here.](https://jrschaferb.github.io/Project%204/project_4.html)
 
 Using MDImap data and other sources I compared pullotion with SAV(subaquatic vegetaion) densities.
 
