@@ -20,6 +20,7 @@ ArcScene was used in order to create a 3D version of the builing hieghts of Balt
 ### Project 2
 
 ![](https://media.giphy.com/media/Yk1Ld08LwKh4ytPH50/giphy.gif)
+Summary: The united States Forest Service Provided us with information on the wildfires from 1980-2016. In the dataset there was 300,524 records of wildfires ranging from size class A to size class G fires. Using QGIS I analyzed the data on only size G fires which is the biggest size class in categorizing a wild fire. The data was split into 9 year increments showing total acres burned with the symbology is weighted based on the extent of the total acres burned.   
 
 [See more details here.](https://jrschaferb.github.io/Project%202/schaferbien_Project_2.html)
 
@@ -52,7 +53,7 @@ Using MDImap data and other sources I compared pullotion with SAV(subaquatic veg
 <small>__Tools__: Arcmap, Esri Desktop Suite
 
 <small>__Data__:
-[Data](http://geodata.md.gov/sggatlas/index.html?sggWebmap=83c1553112794d0d81db4f4304345357&sggTheme=streamHealth&extent=-79.1489,38.0633,-75.0922,39.874&extentBBox=-8555926.975646812,4770258.749917697,-8522027.153602384,4802400.52031157&extentSR=102100)
- (defunct)</small>
+[Data.SAV](http://geodata.md.gov/sggatlas/index.html?sggWebmap=83c1553112794d0d81db4f4304345357&sggTheme=streamHealth&extent=-79.1489,38.0633,-75.0922,39.874&extentBBox=-8555926.975646812,4770258.749917697,-8522027.153602384,4802400.52031157&extentSR=102100)
+ 
 
 ### Final Project 
