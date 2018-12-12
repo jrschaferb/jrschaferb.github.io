@@ -1,9 +1,7 @@
 ---
 title: Joshua Schaferbien's Portfolio
 ---
-<!--This is the first row of projects -->
-<div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
+<div>
 
 ### Project 1
 
@@ -22,7 +20,7 @@ ArcScene was used in order to create a 3D version of the builing hieghts of Balt
 
 </div>
 
-<div style="display: table-cell; width:370px" markdown="1">
+<div>
 
 ### Project 2
 
@@ -36,11 +34,8 @@ ArcScene was used in order to create a 3D version of the builing hieghts of Balt
 [Wildfire Data](https://wildfire.cr.usgs.gov/firehistory/data.html)</small>
 
 </div>
-</div>
-<!--This is the second row of projects -->
-<div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
+<div>
 ### Project 3
 
 ![unsupervised_classification](https://user-images.githubusercontent.com/42807889/49681481-70c46380-fa70-11e8-9861-9585bb6143b7.jpg)
@@ -57,7 +52,7 @@ Laurel_imagery Ask for more information </small>
 
 </div>
 
-<div style="display: table-cell; width:370px" markdown="1">
+<div>
 
 ### Project 4
 
@@ -72,3 +67,5 @@ Using MDImap data and other sources I compared pullotion with SAV(subaquatic veg
 <small>__Data__:
 (http://geodata.md.gov/sggatlas/index.html?sggWebmap=83c1553112794d0d81db4f4304345357&sggTheme=streamHealth&extent=-79.1489,38.0633,-75.0922,39.874&extentBBox=-8555926.975646812,4770258.749917697,-8522027.153602384,4802400.52031157&extentSR=102100)
  (defunct)</small>
+ 
+ <div>
