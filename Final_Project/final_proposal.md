@@ -37,3 +37,6 @@ If the analysis goes smoothly I should have an output that highlights the areas 
 ### More Involved
 
 This is going to be more involved due to the time restraint of this final project. I am going to try and incorporate as much as I learned into this project in order to show a cool project and practice my skills. I chose the following components above because even though we have done them in class this time restraint is the real reason why this project is harder.  
+### Final Project Progress
+![progess](https://user-images.githubusercontent.com/42807889/50006788-e357a680-ff7c-11e8-8ea1-5e23d6d32713.jpg)
+
