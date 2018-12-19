@@ -48,4 +48,6 @@ This is going to be more involved due to the time restraint of this final projec
 
 ![sea_level_rise_0-10ft_map](https://user-images.githubusercontent.com/42807889/50249954-82313800-03ad-11e9-9dcf-4b88d07f5e0c.jpg)
 
+![](https://media.giphy.com/media/8qD5ayU6IGXWSKoVHo/giphy.gif)
+
 ![](https://media.giphy.com/media/7TnAfPk5nt0tKKW9om/giphy.gif)
