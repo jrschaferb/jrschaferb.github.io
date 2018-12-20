@@ -70,26 +70,69 @@ This was created by using MDIMAP's Maryland Building Foot prints. The tool selec
 
 ## 5 ft Sea Level Rise Hexagonal Analysis
 ![5ft_count_clustermap](https://user-images.githubusercontent.com/42807889/50263086-27fe9a00-03e2-11e9-822a-e2637fab487d.JPG)
-Cluster map of the distribution of counts of points within the hexagonla grid. The red shows that the points are High High meaning they are more clustered and similiar. 
+
+Morans I Cluster map of the distribution of counts of points within the hexagonla grid. The red shows that the points are High High meaning they are more clustered and similiar. 
+
 ![5ft_count_plot](https://user-images.githubusercontent.com/42807889/50263095-377de300-03e2-11e9-8ba3-9b6b0a3da672.JPG)
+
 This scatter plot shows the magnitude of the clustering which is relatively mild and positive with a .612462 trend correlation. 
 
 ![5ft_count_significance](https://user-images.githubusercontent.com/42807889/50263116-482e5900-03e2-11e9-9423-9b0aee432e0e.JPG)
-this is the significance map of the points within the hexagonal grid. 
+
+This is the significance map of the points within the hexagonal grid. 
 
 ![5ft_count_localg](https://user-images.githubusercontent.com/42807889/50263299-14076800-03e3-11e9-82bc-f86a18b79b3f.JPG)
+
 This is the Local G distribution 5ft SLR points within hexagonal grid. Most of the clustering is in red while some of the colors are less significant. 
 
 ![5ft_count_localgsig](https://user-images.githubusercontent.com/42807889/50263298-14076800-03e3-11e9-9c5d-0f0c7decb3c5.JPG)
+
 Signifcance cluster map of the Local G distribution. 
 
 ![5ft_univ_local_geary](https://user-images.githubusercontent.com/42807889/50263379-7496a500-03e3-11e9-9175-8715e7b3cf20.JPG)
+
 The above map represents the Univariate Local Geary distribution. 
 
 ![5ft_univ_local_geary_sig](https://user-images.githubusercontent.com/42807889/50263378-7496a500-03e3-11e9-8534-bb1d0d146d0b.JPG)
+
 The above map represents the Univariate Local Geary distribution significance map. 
 
 ##10 ft Sea Level Rise Hexagonal Analysis
+
+
+![clustermap](https://user-images.githubusercontent.com/42807889/50263832-c5a79880-03e5-11e9-9595-d59c683bb655.JPG)
+
+Morans Cluster map of the distribution of counts of points within the hexagonla grid. The red shows that the points are High High meaning they are more clustered and similiar. Morans I cluster map has a .611702  positive clustering realtionship.
+
+![clustermap_plot](https://user-images.githubusercontent.com/42807889/50263833-c5a79880-03e5-11e9-9a83-b347b0849fea.JPG)
+
+Plot representing the correlation between points. There is 
+
+![clustermap_sig](https://user-images.githubusercontent.com/42807889/50263834-c6402f00-03e5-11e9-933d-02039e568956.JPG)
+
+This is the significance map of the points within the hexagonal grid. 
+
+![localg_cluster](https://user-images.githubusercontent.com/42807889/50263836-c6402f00-03e5-11e9-9527-140afd1e56d2.JPG)
+
+Local G distribution of the points within grid, showing the correlation. 
+
+![localg_clustersig](https://user-images.githubusercontent.com/42807889/50263837-c6402f00-03e5-11e9-8af4-b37d2f219d57.JPG)
+
+Significance of each point in relation to the next. 
+
+![univlocalgcluster](https://user-images.githubusercontent.com/42807889/50263838-c6402f00-03e5-11e9-821f-25c7f8b192d2.JPG)
+
+Univariate Local Geary distribution of the data showing the correlation of points within grid. 
+
+![univlocalgclustersig](https://user-images.githubusercontent.com/42807889/50263839-c6402f00-03e5-11e9-97dc-4bc8e2eaf185.JPG)
+
+Univariate Local Geary significance map. 
+
+![corre](https://user-images.githubusercontent.com/42807889/50263835-c6402f00-03e5-11e9-83fa-da7ccddfa8e6.JPG)
+ This represents the correlogram bar graph of the eclidean distance between points showing the relationship bewteen the point distances. The Blue color bar has the most frequency and falls between .5 and .9 positioned away from another point. 
+
+![3dplot](https://user-images.githubusercontent.com/42807889/50263831-c5a79880-03e5-11e9-8a9f-f42fb4e899c2.JPG)
+This is a visual representation of the distribution of number points clustering on a X,Y,Z 3D model. 
 
 
 
