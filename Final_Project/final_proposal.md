@@ -53,9 +53,14 @@ Progress working on the final project.
 A Hexagonal Grid was made in order to compare the effects of each increase in sea level rise. The hexagon grid has a scale of 1/32 ft for each hexagonal polygon. In order to compare the sea level rise I transformed the polygon SRL 5ft and SRL 10ft into a point shapefile. This allowed me to do a count point within polygon. This means that the points created from the sea level rise data resides in the form a point shape within the newly formed hexagonal grid. The tool count points within polygon result in a separate hexagonal grid but now weighted with the number of points from the sea level rise as seen above. the lighter the color on the magma scale the higher the number of sea level rise points were within the 1/32 hexagonal polygon. The results showed that more area by the SRL 10ft was more significant than the SLR 5ft by its point density.   
 
 ### Total Buildings affected with the rise of sea level
+
+
 ## Sea Level Rise 5 ft
 [![sea_level_rise5ft_building_ map](https://user-images.githubusercontent.com/42807889/50262576-03092780-03e0-11e9-9f30-f6c6ab600500.jpg)](https://user-images.githubusercontent.com/42807889/50262576-03092780-03e0-11e9-9f30-f6c6ab600500.jpg)
 *CLICK IMAGE FOR ZOOM*
+
+
+
 ## Sea Level Rise 10 ft 
 [![sea_level_rise10ft_building_map](https://user-images.githubusercontent.com/42807889/50262941-7eb7a400-03e1-11e9-9761-82b60e47d116.jpg)](https://user-images.githubusercontent.com/42807889/50262941-7eb7a400-03e1-11e9-9761-82b60e47d116.jpg)
 *CLICK IMAGE FOR ZOOM* 
@@ -65,6 +70,7 @@ This was created by using MDIMAP's Maryland Building Foot prints. The tool selec
 ### Working GeoDA
 
 ## 5 ft Sea Level Rise Hexagonal Analysis
+
 ![5ft_count_clustermap](https://user-images.githubusercontent.com/42807889/50263086-27fe9a00-03e2-11e9-822a-e2637fab487d.JPG)
 
 Morans I Cluster map of the distribution of counts of points within the hexagonla grid. The red shows that the points are High High meaning they are more clustered and similiar. 
