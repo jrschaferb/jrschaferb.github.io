@@ -129,9 +129,11 @@ Univariate Local Geary distribution of the data showing the correlation of point
 Univariate Local Geary significance map. 
 
 ![corre](https://user-images.githubusercontent.com/42807889/50263835-c6402f00-03e5-11e9-83fa-da7ccddfa8e6.JPG)
- This represents the correlogram bar graph of the eclidean distance between points showing the relationship bewteen the point distances. The Blue color bar has the most frequency and falls between .5 and .9 positioned away from another point. 
+
+This represents the correlogram bar graph of the eclidean distance between points showing the relationship bewteen the point distances. The Blue color bar has the most frequency and falls between .5 and .9 positioned away from another point. 
 
 ![3dplot](https://user-images.githubusercontent.com/42807889/50263831-c5a79880-03e5-11e9-8a9f-f42fb4e899c2.JPG)
+
 This is a visual representation of the distribution of number points clustering on a X,Y,Z 3D model. 
 
 
