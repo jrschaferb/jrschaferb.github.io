@@ -136,6 +136,21 @@ This represents the correlogram bar graph of the eclidean distance between point
 
 This is a visual representation of the distribution of number points clustering on a X,Y,Z 3D model. 
 
+### SpatiaLite Database
+
+![spatialite](https://user-images.githubusercontent.com/42807889/50264234-b32e5e80-03e7-11e9-8d49-7f2818cc02e0.JPG)
+
+I Incorporated the database in order to hold my data. This included the Sea Level Rise 5 ft,  Sea Level Rise 10 ft, and MD Buildings.
+Spatial querying was in the process getting the same information as the select by location tool but the code didn't work. More Progress needed. 
+
+### Python Code Work in Progress
+
+![python](https://user-images.githubusercontent.com/42807889/50264319-0bfdf700-03e8-11e9-84bd-20e1b436eb79.JPG)
+
+I wanted to run a code to auto-mate this process of finding the buildings with the different sea level rise polygons, however the code did not run properly and computer kept crashing due to the volume of data being crunched.  
+
+
+
 
 
 
