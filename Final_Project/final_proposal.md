@@ -55,8 +55,10 @@ A Hexagonal Grid was made in order to compare the effects of each increase in se
 ### Total Buildings affected with the rise of sea level
 ## Sea Level Rise 5 ft
 [![sea_level_rise5ft_building_ map](https://user-images.githubusercontent.com/42807889/50262576-03092780-03e0-11e9-9f30-f6c6ab600500.jpg)](https://user-images.githubusercontent.com/42807889/50262576-03092780-03e0-11e9-9f30-f6c6ab600500.jpg)
+*CLICK IMAGE FOR ZOOM*
 ## Sea Level Rise 10 ft 
-![sea_level_rise10ft_building_map](https://user-images.githubusercontent.com/42807889/50262941-7eb7a400-03e1-11e9-9761-82b60e47d116.jpg)
+[![sea_level_rise10ft_building_map](https://user-images.githubusercontent.com/42807889/50262941-7eb7a400-03e1-11e9-9761-82b60e47d116.jpg)](https://user-images.githubusercontent.com/42807889/50262941-7eb7a400-03e1-11e9-9761-82b60e47d116.jpg)
+*CLICK IMAGE FOR ZOOM* 
 
 This was created by using MDIMAP's Maryland Building Foot prints. The tool selection by location was to figure out the location, number of buildings, and total area of the affected 5 ft and 10 ft sea level rise. The tool runs by selecting the buildings with the polygon of SLR 5ft or SLR 10ft. This newly formed polygon shapefile was graduated symbolized into 8 classification according to the area size of the building. To figure out the amount of buildings affected by the sea level rise I opened the attribute table and recorded the number of records selected from the original foot prints shapefile. Finally, I obtained the information of how much total building area was affected by running the field calculator tool to create a new field on the selected features. Then used the expression tool on the newly formed Total Area field with the equation sum(ShapeSTAre) giving me the sum of all the areas recorded in the selected attribute table.
 
