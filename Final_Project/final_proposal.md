@@ -54,7 +54,7 @@ A Hexagonal Grid was made in order to compare the effects of each increase in se
 
 ### Total Buildings affected with the rise of sea level
 ## Sea Level Rise 5 ft
-![sea_level_rise5ft_building_ map](https://user-images.githubusercontent.com/42807889/50262576-03092780-03e0-11e9-9f30-f6c6ab600500.jpg)
+[![sea_level_rise5ft_building_ map](https://user-images.githubusercontent.com/42807889/50262576-03092780-03e0-11e9-9f30-f6c6ab600500.jpg)](https://user-images.githubusercontent.com/42807889/50262576-03092780-03e0-11e9-9f30-f6c6ab600500.jpg)
 ## Sea Level Rise 10 ft 
 ![sea_level_rise10ft_building_map](https://user-images.githubusercontent.com/42807889/50262941-7eb7a400-03e1-11e9-9761-82b60e47d116.jpg)
 
