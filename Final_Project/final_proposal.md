@@ -17,16 +17,10 @@ http://data.imap.maryland.gov/datasets/maryland-political-boundaries-county-boun
 Maryland Sea Level Rise Wetland Adaptation Areas
 http://data.imap.maryland.gov/datasets/maryland-sea-level-rise-wetland-adaptation-areas
 
-If the site works eventually!
+NOAA Sea LevelRise 
+https://coast.noaa.gov/slrdata/
 
-Maryland Mean Sea Level By County in 2100
 
-http://data.imap.maryland.gov/datasets/maryland-mean-sea-level-by-county-in-2100
-
-Maryland Mean Sea Level By County in 2050
-http://data.imap.maryland.gov/datasets/maryland-mean-sea-level-by-county-in-2050
-
-Maybe Baltimore Property data could be assessed later. Data given to us by Professor Dillion.
 
 ### Tools
 I want to do a hexagonal grid on the areas of impact from the sea level rise. Followed by a heat map with the most affected counties and or shorelines. I could create a DEM to make it look better and make the water symbology nice for resemblance. If I have time I will do a python query in order to do the impact calculations areas. Once again if I still have enough time I will use geoda to see what the Morans law does to the data and see any trends or correlations.
