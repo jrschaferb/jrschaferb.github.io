@@ -64,6 +64,33 @@ A Hexagonal Grid was made in order to compare the effects of each increase in se
 ## Sea Level Rise 10 ft 
 ![sea_level_rise10ft_building_map](https://user-images.githubusercontent.com/42807889/50262941-7eb7a400-03e1-11e9-9761-82b60e47d116.jpg)
 
-This was created by using MDIMAP's Maryland Building Foot prints. The tool selection by location was to figure out the location, number of buildings, and total area of the affected 5 ft and 10 ft sea level rise. The tool runs by selecting the buildings with the polygon of SLR 5ft or SLR 10ft. This newly formed polygon shapefile was graduated symbolized into 8 classification according to the area size of the building. To figure out the amount of buildings affected by the sea level rise I opened the attribute table and recorded the number of records selected from the original foot prints shapefile. Finally, I obtained the information of how much total building area was affected by running the field calculator tool to create a new field on the selected features. Then used the expression tool on the newly formed Total Area field with the equation sum(ShapeSTAre) giving me the sum of all the areas recorded in the selected attribute table. 
+This was created by using MDIMAP's Maryland Building Foot prints. The tool selection by location was to figure out the location, number of buildings, and total area of the affected 5 ft and 10 ft sea level rise. The tool runs by selecting the buildings with the polygon of SLR 5ft or SLR 10ft. This newly formed polygon shapefile was graduated symbolized into 8 classification according to the area size of the building. To figure out the amount of buildings affected by the sea level rise I opened the attribute table and recorded the number of records selected from the original foot prints shapefile. Finally, I obtained the information of how much total building area was affected by running the field calculator tool to create a new field on the selected features. Then used the expression tool on the newly formed Total Area field with the equation sum(ShapeSTAre) giving me the sum of all the areas recorded in the selected attribute table.
+
+### Working GeoDA
+
+## 5 ft Sea Level Rise Hexagonal Analysis
+![5ft_count_clustermap](https://user-images.githubusercontent.com/42807889/50263086-27fe9a00-03e2-11e9-822a-e2637fab487d.JPG)
+Cluster map of the distribution of counts of points within the hexagonla grid. The red shows that the points are High High meaning they are more clustered and similiar. 
+![5ft_count_plot](https://user-images.githubusercontent.com/42807889/50263095-377de300-03e2-11e9-8ba3-9b6b0a3da672.JPG)
+This scatter plot shows the magnitude of the clustering which is relatively mild and positive with a .612462 trend correlation. 
+
+![5ft_count_significance](https://user-images.githubusercontent.com/42807889/50263116-482e5900-03e2-11e9-9423-9b0aee432e0e.JPG)
+this is the significance map of the points within the hexagonal grid. 
+
+![5ft_count_localg](https://user-images.githubusercontent.com/42807889/50263299-14076800-03e3-11e9-82bc-f86a18b79b3f.JPG)
+This is the Local G distribution 5ft SLR points within hexagonal grid. Most of the clustering is in red while some of the colors are less significant. 
+
+![5ft_count_localgsig](https://user-images.githubusercontent.com/42807889/50263298-14076800-03e3-11e9-9c5d-0f0c7decb3c5.JPG)
+Signifcance cluster map of the Local G distribution. 
+
+![5ft_univ_local_geary](https://user-images.githubusercontent.com/42807889/50263379-7496a500-03e3-11e9-9175-8715e7b3cf20.JPG)
+The above map represents the Univariate Local Geary distribution. 
+
+![5ft_univ_local_geary_sig](https://user-images.githubusercontent.com/42807889/50263378-7496a500-03e3-11e9-8534-bb1d0d146d0b.JPG)
+The above map represents the Univariate Local Geary distribution significance map. 
+
+##10 ft Sea Level Rise Hexagonal Analysis
+
+
 
 
