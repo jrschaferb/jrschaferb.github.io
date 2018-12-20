@@ -59,4 +59,11 @@ Progress working on the final project.
 A Hexagonal Grid was made in order to compare the effects of each increase in sea level rise. The hexagon grid has a scale of 1/32 ft for each hexagonal polygon. In order to compare the sea level rise I transformed the polygon SRL 5ft and SRL 10ft into a point shapefile. This allowed me to do a count point within polygon. This means that the points created from the sea level rise data resides in the form a point shape within the newly formed hexagonal grid. The tool count points within polygon result in a separate hexagonal grid but now weighted with the number of points from the sea level rise as seen above. the lighter the color on the magma scale the higher the number of sea level rise points were within the 1/32 hexagonal polygon. The results showed that more area by the SRL 10ft was more significant than the SLR 5ft by its point density.   
 
 ### Total Buildings affected with the rise of sea level
+## Sea Level Rise 5 ft
+![sea_level_rise5ft_building_ map](https://user-images.githubusercontent.com/42807889/50262576-03092780-03e0-11e9-9f30-f6c6ab600500.jpg)
+## Sea Level Rise 10 ft 
+![sea_level_rise10ft_building_map](https://user-images.githubusercontent.com/42807889/50262941-7eb7a400-03e1-11e9-9761-82b60e47d116.jpg)
+
+This was created by using MDIMAP's Maryland Building Foot prints. The tool selection by location was to figure out the location, number of buildings, and total area of the affected 5 ft and 10 ft sea level rise. The tool runs by selecting the buildings with the polygon of SLR 5ft or SLR 10ft. This newly formed polygon shapefile was graduated symbolized into 8 classification according to the area size of the building. To figure out the amount of buildings affected by the sea level rise I opened the attribute table and recorded the number of records selected from the original foot prints shapefile. Finally, I obtained the information of how much total building area was affected by running the field calculator tool to create a new field on the selected features. Then used the expression tool on the newly formed Total Area field with the equation sum(ShapeSTAre) giving me the sum of all the areas recorded in the selected attribute table. 
+
 
