@@ -37,17 +37,26 @@ If the analysis goes smoothly I should have an output that highlights the areas 
 ### More Involved
 
 This is going to be more involved due to the time restraint of this final project. I am going to try and incorporate as much as I learned into this project in order to show a cool project and practice my skills. I chose the following components above because even though we have done them in class this time restraint is the real reason why this project is harder.  
-### Final Project Progress
+### Final Project 
 [![progess](https://user-images.githubusercontent.com/42807889/50006788-e357a680-ff7c-11e8-8ea1-5e23d6d32713.jpg)](https://user-images.githubusercontent.com/42807889/50006788-e357a680-ff7c-11e8-8ea1-5e23d6d32713.jpg)
+Progress working on the final project.
 
+### Sea Level Rise Levels 0 ft
 ![sea_level_rise_0ftmap](https://user-images.githubusercontent.com/42807889/50250046-c4f31000-03ad-11e9-8486-96a004816e33.jpg)
-
+### Sea Level Rise Levels 5 ft
 ![sea_level_rise_5ft_map](https://user-images.githubusercontent.com/42807889/50250043-c45a7980-03ad-11e9-83cb-a2471ed38d7f.jpg)
-
+### Sea Level Rise Levels 10 ft
 ![sea_level_rise_10ft_map_test](https://user-images.githubusercontent.com/42807889/50250044-c45a7980-03ad-11e9-812a-8d11c07871cf.jpg)
-
+### Sea Level Rise Levels 0 ft-10 ft
 ![sea_level_rise_0-10ft_map](https://user-images.githubusercontent.com/42807889/50249954-82313800-03ad-11e9-9dcf-4b88d07f5e0c.jpg)
 
+### GIF of affected areas of Maryland
 ![](https://media.giphy.com/media/8qD5ayU6IGXWSKoVHo/giphy.gif)
 
+### Hexagonal Analysis
 ![](https://media.giphy.com/media/7TnAfPk5nt0tKKW9om/giphy.gif)
+
+A Hexagonal Grid was made in order to compare the effects of each increase in sea level rise. The hexagon grid has a scale of 1/32 ft for each hexagonal polygon. In order to compare the sea level rise I transformed the polygon SRL 5ft and SRL 10ft into a point shapefile. This allowed me to do a count point within polygon. This means that the points created from the sea level rise data resides in the form a point shape within the newly formed hexagonal grid. The tool count points within polygon result in a separate hexagonal grid but now weighted with the number of points from the sea level rise as seen above. the lighter the color on the magma scale the higher the number of sea level rise points were within the 1/32 hexagonal polygon. The results showed that more area by the SRL 10ft was more significant than the SLR 5ft by its point density.   
+
+### Total Buildings affected with the rise of sea level
+
