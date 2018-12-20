@@ -59,3 +59,16 @@ Using MDImap data and other sources I compared pullotion with SAV(subaquatic veg
  
 
 ### Final Project 
+
+[![](https://media.giphy.com/media/8qD5ayU6IGXWSKoVHo/giphy.gif)](https://jrschaferb.github.io/Final_Project/final_proposal.html)
+
+[See more details here](https://jrschaferb.github.io/Final_Project/final_proposal.html)
+
+Using NOAA Data I extracted the sea level rise data containg the expected results of a 5 ft sea level rise, and a 10 ft sea level rise and compaired this to Marylands counties showing which areas were affected the most. To do more analysis I compaired the Marylands building blue prints to figue out how many building will be affected by this sea level rise and how much building area is affected. 
+
+<small>__Tools__: Software QGIS: select by location, select within plug-in, spatiaLite Database,and QGISPY
+ 
+ <small>__Data__: [NOAA Data](https://coast.noaa.gov/slrdata/)
+ 
+ [MDIMAP Data](http://data.imap.maryland.gov/datasets/maryland-building-footprints)
+ 
